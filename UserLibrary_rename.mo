@@ -1,5 +1,5 @@
 within ;
-package UserLibrary
+package UserLibrary_rename
   model test1_1
     Modelica.Mechanics.Translational.Components.Fixed fixed
       annotation (Placement(transformation(extent={{-70,-10},{-50,10}})));
@@ -21,4 +21,4 @@ package UserLibrary
           coordinateSystem(preserveAspectRatio=false)));
   end test1_1;
   annotation (uses(Modelica(version="4.0.0")));
-end UserLibrary;
+end UserLibrary_rename;
