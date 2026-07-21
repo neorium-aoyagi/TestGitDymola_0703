@@ -1,5 +1,5 @@
 within ;
-package UserLibrary_rename
+package UserLibrary_Renamed
   model test1_1
     Modelica.Mechanics.Translational.Components.Fixed fixed
       annotation (Placement(transformation(extent={{-70,-10},{-50,10}})));
@@ -20,5 +20,5 @@ package UserLibrary_rename
     annotation (Icon(coordinateSystem(preserveAspectRatio=false)), Diagram(
           coordinateSystem(preserveAspectRatio=false)));
   end test1_1;
-  annotation (uses(Modelica(version="4.0.0")));
-end UserLibrary_rename;
+  annotation (uses(Modelica(version="4.1.0")));
+end UserLibrary_Renamed;
